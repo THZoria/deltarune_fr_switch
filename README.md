@@ -5,7 +5,7 @@ Il nécessite la version 1.03
 
 # Comment l'installer ?
 
-- Télécharger la dernière version du mod : 
+- Télécharger la dernière version du mod : [Deltarune Mod FR Switch 1.0](https://drive.google.com/file/d/1YSYJYDHRcjhp3TsXL-j232dZoX5okDNN/view?usp=sharing)
 - Si vous avez __SXOS__ copié le dossier __sxos__ à la racine de votre micro sd.
 - Si vous avec __Atmosphère__ copié le dossier __atmosphere__ à la racine de votre micro sd.
 Démarrer le jeu et il sera en français.
