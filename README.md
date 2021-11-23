@@ -5,7 +5,7 @@ Il nécessite la version 1.03
 
 # Comment l'installer ?
 
-- Télécharger la dernière version du mod : [Deltarune Mod FR Switch 1.0](https://drive.google.com/file/d/1YSYJYDHRcjhp3TsXL-j232dZoX5okDNN/view?usp=sharing)
+- Télécharger la dernière version du mod : [Deltarune Mod FR Switch](https://github.com/THZoria/deltarune_fr_switch/releases/latest)
 - Si vous avez __SXOS__ copié le dossier __sxos__ à la racine de votre micro sd.
 - Si vous avec __Atmosphère__ copié le dossier __atmosphere__ à la racine de votre micro sd.
 Démarrer le jeu et il sera en français.
@@ -18,5 +18,9 @@ Un énorme merci a Alitero pour le game.win patcher
 Merci également a Fristorm pour les indications sur le fonctionnement du patch.
 Et également merci à la communauté de [deltarune.fr](https://deltarune.fr/) qui ont traduit bénévolement le jeu.
 
+# Besoins d'aide ?
 
+Vous pouvez nous rejoindre sur notre discord pour recevoir de l'aide sur le patch.
+
+[![Discord SigHya](https://img.shields.io/discord/643436008452521984.svg?logo=discord&logoColor=white&label=Discord&color=7289DA)](https://discord.com/invite/4YkUZvC)
 
