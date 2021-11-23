@@ -18,7 +18,7 @@ Un énorme merci a Alitero pour le game.win patcher
 Merci également a Fristorm pour les indications sur le fonctionnement du patch.
 Et également merci à la communauté de [deltarune.fr](https://deltarune.fr/) qui ont traduit bénévolement le jeu.
 
-# Besoins d'aide ?
+# Problème avec le patch ?
 
 Vous pouvez nous rejoindre sur notre discord pour recevoir de l'aide sur le patch.
 
