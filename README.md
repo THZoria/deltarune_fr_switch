@@ -1,6 +1,6 @@
 # Deltarune FR Switch
 
-Ce mod permet de modifié la langue du jeu Deltarune en français.
+Ce mod permet de modifier la langue du jeu Deltarune en français.
 Il nécessite la version 1.03
 
 # Comment l'installer ?
