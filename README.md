@@ -14,7 +14,7 @@ Démarrer le jeu et il sera en français.
 
 # Crédit
 
-Un énorme merci a Alitero pour le game.win patcher
+Un énorme merci a Alitero pour le game.win patché
 Merci également a Fristorm pour les indications sur le fonctionnement du patch.
 Et également merci à la communauté de [deltarune.fr](https://deltarune.fr/) qui ont traduit bénévolement le jeu.
 
