@@ -5,7 +5,7 @@ Il nécessite la version 1.03
 
 # Comment l'installer ?
 
-⚠️ Ne fonctionne pas avec la mise à jour 1.04 pour le moment, dernière version compatible : 1.03b
+⚠️ Ne fonctionne pas avec la mise à jour 1.06 pour le moment, dernière version compatible : 1.03b
 
 - Télécharger la dernière version du mod : [Deltarune Mod FR Switch](https://github.com/THZoria/deltarune_fr_switch/releases/latest)
 - Si vous avez __SXOS__ copier le dossier __sxos__ à la racine de votre micro sd.
