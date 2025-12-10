@@ -34,5 +34,5 @@ Et également merci à la communauté de [deltarune.fr](https://deltarune.fr/) q
 
 Vous pouvez nous rejoindre sur notre discord pour recevoir de l'aide sur le patch.
 
-[![Discord SigHya](https://img.shields.io/discord/643436008452521984.svg?logo=discord&logoColor=white&label=Discord&color=7289DA)](https://discord.com/invite/4YkUZvC)
+[![Discord SigHya](https://img.shields.io/discord/643436008452521984.svg?logo=discord&logoColor=white&label=Discord&color=7289DA)](https//discord.sighya.fr)
 
