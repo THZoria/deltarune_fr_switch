@@ -10,8 +10,8 @@ Il nécessite la version 1.06
 
 ⚠️ La version __SXOS__ a été abandonné, le support de ce dernier s'étant arrêté en 2020
 
-Patch FR tester en version __1.9.1__ de Atmosphère
-Compatible jusqu'au __Firmware 20.1.5__ de la Nintendo Switch
+Patch FR tester en version __1.10.1__ de Atmosphère
+Compatible jusqu'au __Firmware 21.1.0__ de la Nintendo Switch
 
 # Roadmap
 
