@@ -15,8 +15,9 @@ Compatible jusqu'au __Firmware 20.1.5__ de la Nintendo Switch
 
 # Roadmap
 
-- Mettre à jour le patch pour supporté la version payante de deltarune [ ]
-- Mettre à jour le patch pour supporté les nouveaux chapitres 3 et 4
+- Mettre à jour le patch pour supporté la version payante de deltarune [ ✓ ]
+- Mettre à jour le patch pour supporté le nouveaux chapitres 3 [ ✓ ]
+- Mettre à jour le patch pour supporté le nouveaux chapitres 4 [ }
 
 Le chapitre 3 et 4 est en cours de développement par la communauté, le portage sera fait lorsqu'il sera disponible sur PC
 
