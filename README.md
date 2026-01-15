@@ -1,4 +1,8 @@
-# Deltarune FR Switch
+# Deltarune FR Switch3
+
+[![Discord](https://img.shields.io/discord/454099185416011776?label=Rejoindre%20le%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.sighya.fr) <br>
+[![Dernière version](https://img.shields.io/github/v/release/THZoria/deltarune_fr_switch?label=Dernière%20Version&color=05c09a&style=for-the-badge)](https://github.com/THZoria/deltarune_fr_switch/latest)
+[![Téléchargements](https://img.shields.io/github/downloads/THZoria/deltarune_fr_switch/total?label=Téléchargements&color=blue&style=for-the-badge)](https://github.com/THZoria/deltarune_fr_switch)
 
 Ce mod permet de modifier la langue du jeu Deltarune en français.
 Il nécessite la version 1.06
