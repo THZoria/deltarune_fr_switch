@@ -23,8 +23,7 @@ Compatible jusqu'au __Firmware 21.2.0__ de la Nintendo Switch
 - Mettre à jour le patch pour supporté le nouveaux chapitres 3 [ ✓ ]
 - Mettre à jour le patch pour supporté le nouveaux chapitres 4 [ ✓ ]
 
-Le chapitre5 5 est en cours de développement par la communauté, le portage sera fait lorsqu'il sera disponible sur PC
-
+Le chapitre 5 est en cours de développement par la communauté, le portage sera fait lorsqu'il sera disponible sur PC
 
 ![image](https://user-images.githubusercontent.com/50277488/142923147-21e25357-8e19-4408-ac95-3886be3d0546.png)
 
