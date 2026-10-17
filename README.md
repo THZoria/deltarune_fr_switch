@@ -1,4 +1,4 @@
-# Deltarune FR Switch3
+# Deltarune FR Switch
 
 [![Discord](https://img.shields.io/discord/454099185416011776?label=Rejoindre%20le%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.sighya.fr) <br>
 [![Dernière version](https://img.shields.io/github/v/release/THZoria/deltarune_fr_switch?label=Dernière%20Version&color=05c09a&style=for-the-badge)](https://github.com/THZoria/deltarune_fr_switch/latest)
